@@ -1,0 +1,16 @@
+[
+  {
+    "Name":"Upstairs Thermostat",
+    "Operating_Mode":"cool",
+    "Cool_Set_Point":68,
+    "Heat_Set_Point":74,
+    "Fan_Mode":"auto"
+  },
+  {
+    "Name":"Downstairs Thermostat",
+    "Operating_Mode":"off",
+    "Cool_Set_Point":70,
+    "Heat_Set_Point":78,
+    "Fan_Mode":"auto"
+  }
+]
